@@ -1,3 +1,3 @@
 ### Olá 👋
 
-- 🌱 Estou aprendendo programação
+-  Estou aprendendo programação
