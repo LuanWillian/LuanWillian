@@ -1,3 +1,3 @@
 ### Olá, Meu nome e Luan Willian 👋
-[![luan GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![luan GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=luanwillian&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![luan GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=luanwillian&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/luanwillian/github-readme-stats#gh-dark-mode-only)
+[![luan GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=luanwillian&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/luanwillian/github-readme-stats#gh-light-mode-only)
